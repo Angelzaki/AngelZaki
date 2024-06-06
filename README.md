@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, Soy ZakiQA 🍫</h1>
+<h1 align="center">👋 Hola, Soy ZakiQA 🍫</h1>
 </div>
 
 [![2.png](https://i.postimg.cc/J7Xk3J26/2.png)](https://postimg.cc/t7XJp1yW)
@@ -7,7 +7,10 @@
 ## Sobre mi
 
 - Estudiante de la carrera de Ingenieria de sistemas me encuentro en 9no Ciclo
-- Comparto mis Proyectos realizados con su detalle
+- 👀 Estoy interesado en la automatización del control de calidad y las pruebas manuales.
+- 🌱 Actualmente estoy aprendiendo sobre Cyprees y Selenium, tambien herramientas agiles como Scrum, Kanban, etc.
+- 📫 Cómo contactarme: angel.salazarmaylle@gmail.com
+- Mi telefono es: +51 925518365 :)
 <br>
 
 ## Proyectos *Pruebas QA*
