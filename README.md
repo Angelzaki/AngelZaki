@@ -13,8 +13,8 @@
 - Mi telefono es: +51 925518365 :)
 <br>
 
-## Habilidades
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+## Lenguajes y Herramientas
+[![My Skills](https://skillicons.dev/icons?i=vscode,selenium,spring,py,nodejs,mysql,maven,laravel,java,js,idea,html,cypress,cs,c,apple&perline=3)](https://skillicons.dev)
 ## Redes
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-salazar-36236b198/) 
 
