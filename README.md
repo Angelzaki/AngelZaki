@@ -12,9 +12,11 @@
 - 📫 Cómo contactarme: angel.salazarmaylle@gmail.com
 - Mi telefono es: +51 925518365 :)
 <br>
+
 ## Habilidades
 
 ## Redes
+
 ## Proyectos *Pruebas QA*
 
 <!--
