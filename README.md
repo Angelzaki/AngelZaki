@@ -14,7 +14,7 @@
 <br>
 
 ## Lenguajes y Herramientas
-[![My Skills](https://skillicons.dev/icons?i=vscode,selenium,spring,py,nodejs,mysql,maven,laravel,java,js,idea,html,cypress,cs,c,apple&perline=5)]
+![My Skills](https://skillicons.dev/icons?i=vscode,selenium,spring,py,nodejs,mysql,maven,laravel,java,js,idea,html,cypress,cs,phpcapple&perline=8)
 ## Redes
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-salazar-36236b198/) 
 
