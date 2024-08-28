@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,selenium,spring,py,nodejs,mysql,maven,laravel,java,js,idea,html,cypress,cs,php,git,github,docker,linux&perline=8" alt="Lenguajes y Herramientas" />
 </div>
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos En Proceso
 
 - **Automatización de Pruebas con Cypress**: Desarrollo e implementación de pruebas automatizadas para aplicaciones web utilizando Cypress, mejorando la cobertura de pruebas y reduciendo el tiempo de entrega.
 - **Sistema de Gestión de Calidad**: Creación de un sistema integral para gestionar y monitorear la calidad del software, con herramientas de seguimiento de errores y pruebas.
