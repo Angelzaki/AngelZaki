@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://postimg.cc/4nQcf1Lj">
-    <img src="https://i.postimg.cc/L4r3VCz4/2.png" alt="Perfil de ZakiQA" width="300">
+    <img src="https://i.postimg.cc/L4r3VCz4/2.png" alt="Perfil de ZakiQA">
   </a>
 </div>
 
