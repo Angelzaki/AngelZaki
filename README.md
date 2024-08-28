@@ -4,13 +4,13 @@
 
 <div align="center">
   <a href="https://postimg.cc/4nQcf1Lj">
-    <img src="https://i.postimg.cc/L4r3VCz4/2.png" alt="Perfil de ZakiQA" width="300">
+    <img src="https://i.postimg.cc/L4r3VCz4/2.png" alt="Perfil de ZakiQA">
   </a>
 </div>
 
 ## 🎓 Sobre mí
 
-- Estudiante de **Ingeniería de Sistemas** en el 9no ciclo.
+- Estudiante de **Ingeniería de Sistemas** en el 10mo ciclo.
 - Apasionado por la **automatización del control de calidad** y **pruebas manuales**.
 - Actualmente aprendiendo **Cypress** y **Selenium**, junto con herramientas ágiles como **Scrum** y **Kanban**.
 - 📫 **Contáctame**: [angel.salazarmaylle@gmail.com](mailto:angel.salazarmaylle@gmail.com)
