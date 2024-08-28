@@ -44,13 +44,6 @@
   <img src="https://streak-stats.demolab.com?user=Angelzaki&theme=radical" alt="Racha de contribuciones en GitHub" />
 </div>
 
-## 🌟 Actividad Reciente
-
-<!--START_SECTION:activity-->
-1. ❗️ Cerrado el Issue [#1](https://github.com/Angelzaki/repo/issues/1) en [Angelzaki/repo](https://github.com/Angelzaki/repo)
-2. 🎉 Mergeado el Pull Request [#2](https://github.com/Angelzaki/repo/pull/2) en [Angelzaki/repo](https://github.com/Angelzaki/repo)
-3. 💪 Abierto el Issue [#3](https://github.com/Angelzaki/repo/issues/3) en [Angelzaki/repo](https://github.com/Angelzaki/repo)
-<!--END_SECTION:activity-->
 
 ## 🏆 Logros
 
@@ -59,11 +52,6 @@
   - **Fundamentos de la Dirección de Proyectos Predictive**, PMI, 2024.
   - **QA desde cero: Principio, habilidades y el futuro con IA**, Desafio Latam, 2024.
 - **Reconocimientos**: Mi trabajo en proyectos de prueba y desarrollo ha sido reconocido por la comunidad de desarrolladores y en entornos académicos.
-
-## 📚 Blogs y Artículos
-
-- **[Mejores Prácticas en Automatización de Pruebas con Cypress](#)**: Una guía completa sobre cómo maximizar la eficiencia en pruebas automatizadas.
-- **[Cómo empezar con Selenium para Principiantes](#)**: Introducción a Selenium y consejos para principiantes en pruebas automatizadas.
 
 ## 🌐 Redes y Contacto
 
