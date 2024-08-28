@@ -1,36 +1,40 @@
 <div align="center">
-<h1 align="center">👋 Hola, Soy ZakiQA 🍫</h1>
+  <h1>👋 Hola, Soy ZakiQA 🍫</h1>
 </div>
 
-[![2.png](https://i.postimg.cc/L4r3VCz4/2.png)](https://postimg.cc/4nQcf1Lj)
+<div align="center">
+  <a href="https://postimg.cc/4nQcf1Lj">
+    <img src="https://i.postimg.cc/L4r3VCz4/2.png" alt="Perfil de ZakiQA" width="300">
+  </a>
+</div>
 
-## Sobre mi
+## Sobre mí
 
-- Estudiante de la carrera de Ingenieria de sistemas me encuentro en 9no Ciclo
-- 👀 Estoy interesado en la automatización del control de calidad y las pruebas manuales.
-- 🌱 Actualmente estoy aprendiendo sobre Cyprees y Selenium, tambien herramientas agiles como Scrum, Kanban, etc.
-- 📫 Cómo contactarme: angel.salazarmaylle@gmail.com
-- Mi telefono es: +51 925518365 :)
-<br>
+- 🎓 **Estudiante de Ingeniería de Sistemas** en el 9no ciclo.
+- 👀 Interesado en la **automatización del control de calidad** y **pruebas manuales**.
+- 🌱 Actualmente aprendiendo **Cypress** y **Selenium**, además de herramientas ágiles como **Scrum** y **Kanban**.
+- 📫 **Cómo contactarme**: [angel.salazarmaylle@gmail.com](mailto:angel.salazarmaylle@gmail.com)
+- 📞 **Teléfono**: +51 925518365
 
-## Lenguajes y Herramientas
-![My Skills](https://skillicons.dev/icons?i=vscode,selenium,spring,py,nodejs,mysql,maven,laravel,java,js,idea,html,cypress,cs,phpcapple&perline=8)
-## Redes
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-salazar-36236b198/) 
+## 🛠️ Lenguajes y Herramientas
 
-## Proyectos *Pruebas QA*
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,selenium,spring,py,nodejs,mysql,maven,laravel,java,js,idea,html,cypress,cs,php&perline=8" alt="Lenguajes y Herramientas" />
+</div>
 
-<!--
-**Angelzaki/AngelZaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Redes
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.linkedin.com/in/angel-salazar-36236b198/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Proyectos de Pruebas QA
+
+- **Automatización de Pruebas con Cypress**: Implementación de pruebas automatizadas para aplicaciones web, asegurando la calidad de los productos con Cypress.
+- **Pruebas Manuales en Aplicaciones Web y Móviles**: Experiencia en la realización de pruebas manuales exhaustivas para identificar y resolver errores en diversas plataformas.
+
+---
+
+¡Gracias por visitar mi perfil de GitHub! 😊
