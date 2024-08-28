@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hola, Soy ZakiQA 🍫</h1>
 </div>
 
-[![2.png](https://i.postimg.cc/J7Xk3J26/2.png)](https://postimg.cc/t7XJp1yW)
+[![2.png](https://i.postimg.cc/L4r3VCz4/2.png)](https://postimg.cc/4nQcf1Lj)
 
 ## Sobre mi
 
