@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>👋 Hola, Soy ZakiQA 🍫</h1>
+  <h1>👋 Hola, Soy Angel Salazar (ZakiQA) 🍫</h1>
+  <p>Estudiante de Ingeniería de Sistemas y apasionado por la automatización de pruebas QA</p>
 </div>
 
 <div align="center">
@@ -10,16 +11,16 @@
 
 ## 🎓 Sobre mí
 
-- Estudiante de **Ingeniería de Sistemas** en el 10mo ciclo.
-- Apasionado por la **automatización del control de calidad** y **pruebas manuales**.
-- Actualmente aprendiendo **Cypress** y **Selenium**, junto con herramientas ágiles como **Scrum** y **Kanban**.
-- 📫 **Contáctame**: [angel.salazarmaylle@gmail.com](mailto:angel.salazarmaylle@gmail.com)
-- 📞 **Teléfono**: +51 925518365
+- 💻 Estudiante de **Ingeniería de Sistemas** en el 10mo ciclo.
+- 🧪 Apasionado por la **automatización del control de calidad** y **pruebas manuales**.
+- 🚀 Actualmente aprendiendo **Cypress** y **Selenium**, junto con herramientas ágiles como **Scrum** y **Kanban**.
+- 📧 **Contáctame**: [angel.salazarmaylle@gmail.com](mailto:angel.salazarmaylle@gmail.com)
+- 📱 **Teléfono**: +51 925518365
 
 ## 🛠️ Lenguajes y Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,selenium,spring,py,nodejs,mysql,maven,laravel,java,js,idea,html,cypress,cs,php&perline=8" alt="Lenguajes y Herramientas" />
+  <img src="https://skillicons.dev/icons?i=vscode,selenium,spring,py,nodejs,mysql,maven,laravel,java,js,idea,html,cypress,cs,php,git,github,docker,linux&perline=8" alt="Lenguajes y Herramientas" />
 </div>
 
 ## 🚀 Proyectos Destacados
@@ -41,7 +42,16 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Angelzaki&show_icons=true&theme=radical" alt="Estadísticas de GitHub de ZakiQA" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelzaki&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://streak-stats.demolab.com?user=Angelzaki&theme=radical" alt="Racha de contribuciones en GitHub" />
 </div>
+
+## 🌟 Actividad Reciente
+
+<!--START_SECTION:activity-->
+1. ❗️ Cerrado el Issue [#1](https://github.com/Angelzaki/repo/issues/1) en [Angelzaki/repo](https://github.com/Angelzaki/repo)
+2. 🎉 Mergeado el Pull Request [#2](https://github.com/Angelzaki/repo/pull/2) en [Angelzaki/repo](https://github.com/Angelzaki/repo)
+3. 💪 Abierto el Issue [#3](https://github.com/Angelzaki/repo/issues/3) en [Angelzaki/repo](https://github.com/Angelzaki/repo)
+<!--END_SECTION:activity-->
 
 ## 🏆 Logros
 
@@ -50,6 +60,11 @@
   - **Fundamentos de la Dirección de Proyectos Predictive**, PMI, 2024.
   - **QA desde cero: Principio, habilidades y el futuro con IA**, Desafio Latam, 2024.
 - **Reconocimientos**: Mi trabajo en proyectos de prueba y desarrollo ha sido reconocido por la comunidad de desarrolladores y en entornos académicos.
+
+## 📚 Blogs y Artículos
+
+- **[Mejores Prácticas en Automatización de Pruebas con Cypress](#)**: Una guía completa sobre cómo maximizar la eficiencia en pruebas automatizadas.
+- **[Cómo empezar con Selenium para Principiantes](#)**: Introducción a Selenium y consejos para principiantes en pruebas automatizadas.
 
 ## 🌐 Redes y Contacto
 
@@ -65,3 +80,4 @@
 ---
 
 ¡Gracias por visitar mi perfil de GitHub! 😊
+
