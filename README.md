@@ -32,7 +32,7 @@
 ## 👥 Contribuciones a la Comunidad
 
 - **Pull Requests Realizados**: Contribuciones activas en proyectos open-source, incluyendo la mejora de documentación, corrección de errores, y la adición de nuevas funcionalidades.
-  - [MiCaminoFront](#): Descripción breve de la contribución ("Añadida funcionalidad para volver al principio").
+  - [MiCaminoFront](https://github.com/DanteNico1087/mi-camino-frontend): Descripción breve de la contribución ("Añadida funcionalidad para volver al principio").
 - **Proyectos Colaborativos**: Participación en proyectos colaborativos con otros desarrolladores, aportando en la planificación, codificación, y revisión de código.
   - **Proyecto MasGas**: Realize el frontend del proyecto.
 
