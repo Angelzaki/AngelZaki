@@ -1,4 +1,4 @@
-<div align="center"> <h1>👋 Hola, Soy Angel Salazar (ZakiQA) 🚀</h1> <p>Full Stack Developer | QA Automation | Inteligencia Artificial 🤖</p> </div>
+<div align="center"> <h1>👋 Hola, Soy Angel Salazar (Zaki) 🚀</h1> <p>Full Stack Developer | QA Automation | Inteligencia Artificial 🤖</p> </div>
 
 🎓 Sobre mí
 🎓 Egresado de Ingeniería de Sistemas en la Universidad Tecnológica del Perú (UTP).
