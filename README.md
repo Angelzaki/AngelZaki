@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>🚀 Hola, Soy Angel Salazar (Zaki) 🤖</h1>
-  <p><strong>Full Stack Developer | QA Automation | Inteligencia Artificial</strong></p>
+  <h1 style="color: #00FFFF; text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF;">🚀 Hola, Soy Angel Salazar (Zaki) 🤖</h1>
+  <p style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF, 0 0 20px #FF00FF;"><strong>Full Stack Developer | QA Automation | Inteligencia Artificial</strong></p>
 </div>
 
 ---
@@ -15,6 +15,7 @@
 
 📧 **Contáctame**: [angel.salazarmaylle@gmail.com](mailto:angel.salazarmaylle@gmail.com)  
 📱 **Teléfono**: +51 925518365  
+🌐 **Portafolio**: [portafolioangel-mu.vercel.app](https://portafolioangel-mu.vercel.app/)  
 
 ---
 
@@ -47,7 +48,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Angelzaki&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelzaki&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Angelzaki&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Angelzaki&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
