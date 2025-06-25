@@ -7,7 +7,7 @@
 
 ## 🎓 Sobre Mí  
 
-- 🎓 **Egresado de Ingeniería de Sistemas** | Universidad Tecnológica del Perú (UTP).  
+- 🎓 **Bachiller de Ingeniería de Sistemas** | Universidad Tecnológica del Perú (UTP).  
 - 💡 Apasionado por el desarrollo **Full Stack**, **QA Automation** y la **Inteligencia Artificial**.  
 - ⚡ Experiencia en **React, Node.js, Firebase, Supabase y Express.js**.  
 - 🧪 Especialización en **pruebas automatizadas** con **Cypress, Selenium, JMeter y Postman**.  
