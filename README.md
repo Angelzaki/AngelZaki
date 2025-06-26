@@ -36,7 +36,7 @@
 
 ---
 
-## 👥 Contribuciones a la Comunidad  
+## Contribuciones a la Comunidad  
 
 - 🏆 **Open Source** | Contribuciones en documentación, corrección de errores y desarrollo de nuevas funcionalidades.  
 - 🔗 **Proyectos Colaborativos** | Participación activa en **MiCaminoFront** y **MASGAS**.  
