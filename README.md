@@ -21,7 +21,7 @@
 ## 🛠️ Tecnologías y Herramientas  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,py,selenium,cypress,mysql,postgres,sqlite,supabase,git,github,docker,linux,postman,azure,aws" alt="Stack Tecnológico" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,py,selenium,cypress,mysql,postgres,supabase,git,github,docker,linux,postman,azure,aws" alt="Stack Tecnológico" />
 </div>
 
 ---
