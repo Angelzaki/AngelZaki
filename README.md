@@ -14,7 +14,7 @@
 - 🔍 Explorando el impacto de la IA en el sector salud a través de **Salud -> DermaBot 🏥 y Educación -> InnovaEdu🏫**.  
 
 📧 **Contáctame**: [angel.salazarmaylle@gmail.com](mailto:angel.salazarmaylle@gmail.com)  
-📱 **Teléfono**: +51 925518365
+📱 **Teléfono**: +51925518365
 
 ---
 
