@@ -9,8 +9,7 @@
 
 - 🎓 **Bachiller de Ingeniería de Sistemas** | Universidad Tecnológica del Perú (UTP).  
 - 💡 Apasionado por el desarrollo **Full Stack Mobile y Web**, **QA Automation** y la **Inteligencia Artificial**.  
-- ⚡ Experiencia en **React, Node.js, Firebase, Supabase y Express.js, PostgreSQL**.  
-- 🧪 Especialización en **pruebas automatizadas** con **Cypress, Selenium, JMeter y Postman**.  
+- ⚡ Experiencia en **React, Node.js, Firebase, Supabase y Express.js, PostgreSQL**. 
 - 🔍 Explorando el impacto de la IA en el sector salud a través de **Salud -> DermaBot 🏥 y Educación -> InnovaEdu🏫**.  
 
 📧 **Contáctame**: [angel.salazarmaylle@gmail.com](mailto:angel.salazarmaylle@gmail.com)  
