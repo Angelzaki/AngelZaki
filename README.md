@@ -29,7 +29,6 @@
 
 - 🔹 **DermaBot** 🏥 | Chatbot basado en **IA y Deep Learning** para la identificación de dermatitis.
 - 🔹 **InnovaEdu** 🏫 | Chatbot basado en **IA y Deep Learning** para la Educación Vial.
-- 🛒 **Estilo Divino** | E-commerce de moda con **React, Node.js y Supabase**, integrando pagos con **Yape QR**.  
 - 🔬 **MASGAS** | Aplicación de venta de gas envasado, conectada con **Firebase y Node.js** bajo arquitectura **SOA**.  
 - 📊 **Power BI Dashboards** | Desarrollo de tableros interactivos para análisis de datos en el sector retail.  
 
