@@ -29,8 +29,7 @@
 
 - 🔹 **DermaBot** 🏥 | Chatbot basado en **IA y Deep Learning** para la identificación de dermatitis.
 - 🔹 **InnovaEdu** 🏫 | Chatbot basado en **IA y Deep Learning** para la Educación Vial.
-- 🔬 **MASGAS** | Aplicación de venta de gas envasado, conectada con **Firebase y Node.js** bajo arquitectura **SOA**.  
-- 📊 **Power BI Dashboards** | Desarrollo de tableros interactivos para análisis de datos en el sector retail.  
+- 🔬 **MASGAS** | Aplicación de venta de gas envasado, conectada con **Firebase y Node.js** bajo arquitectura **SOA**.   
 
 ---
 
