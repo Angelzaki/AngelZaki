@@ -24,7 +24,7 @@
 <div align="center">
 
 **Frontend:**  
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,php" />
 
 **Backend & DB:**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,py,postgres,mysql,supabase,firebase" />
