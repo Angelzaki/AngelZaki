@@ -24,7 +24,7 @@
 <div align="center">
 
 **Frontend:**  
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,php" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,php,angular" />
 
 **Backend & DB:**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,py,postgres,mysql,supabase,firebase" />
@@ -33,7 +33,7 @@
 <img src="https://skillicons.dev/icons?i=postman,selenium,cypress" />
 
 **DevOps & Cloud:**  
-<img src="https://skillicons.dev/icons?i=docker,azure,git,github" />
+<img src="https://skillicons.dev/icons?i=docker,azure,git,github,gcp" />
 
 </div>
 
