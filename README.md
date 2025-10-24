@@ -24,10 +24,10 @@
 <div align="center">
 
 **Frontend:**  
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,php,angular" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,angular" />
 
 **Backend & DB:**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,py,postgres,mysql,supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,postgres,mysql,supabase,firebase,php" />
 
 **QA & Testing:**  
 <img src="https://skillicons.dev/icons?i=postman,selenium,cypress" />
