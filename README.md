@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="color: #00FFFF; text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF;">🚀 Hola, Soy Angel Salazar (Zaki) 🤖</h1>
   <p style="color: #FF00FF; font-size: 18px; text-shadow: 0 0 10px #FF00FF, 0 0 20px #FF00FF;">
-    <strong>Full Stack Developer | Inteligencia Artificial</strong>
+    <strong>Full Stack Developer|Inteligencia Artificial</strong>
   </p>
 </div>
 
