@@ -15,7 +15,7 @@
 - 🔍 Actualmente explorando el impacto de la IA en **Salud (DermaBot 🏥)** y **Educación (InnovaEdu 🏫)**.  
 
 📧 **Email**: [angel.salazarmaylle@gmail.com](mailto:angel.salazarmaylle@gmail.com)  
-📱 **Teléfono**: +51 925 518 365  
+📱**Teléfono**: +51 925 518 365  
 
 ---
 
