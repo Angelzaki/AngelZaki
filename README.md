@@ -9,7 +9,7 @@
 
 ## 🎓 Sobre Mí  
 
-- 👨‍🎓 **Bachiller en Ingeniería de Sistemas** | Universidad Tecnológica del Perú (UTP).  
+- 👨‍🎓 **Titulado en Ingeniería de Sistemas** | Universidad Tecnológica del Perú (UTP).  
 - 💡 Apasionado por el desarrollo **Full Stack (Mobile & Web)**, **QA Automation** y la **Inteligencia Artificial**.  
 - ⚡ Experiencia en **React, Node.js, Firebase, Supabase, Express.js y PostgreSQL**.  
 - 🔍 Actualmente explorando el impacto de la IA en **Salud (DermaBot 🏥)** y **Educación (InnovaEdu 🏫)**.  
