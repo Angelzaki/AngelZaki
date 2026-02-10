@@ -69,14 +69,6 @@
 
 ---
 
-## 🏆 Certificaciones  
-
-- 🥇 **Scrum Master Professional Certificate - SMPC®** | CertiProf, 2024.  
-- 🥈 **Fundamentos de Dirección de Proyectos Predictive** | PMI, 2024.  
-- 🥉 **QA desde Cero: Principios, Habilidades y el Futuro con IA** | Desafío Latam, 2024.  
-
----
-
 ## 🌐 Redes y Contacto  
 
 <div align="center">
