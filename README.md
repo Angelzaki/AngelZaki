@@ -29,9 +29,6 @@
 **Backend & DB:**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,py,postgres,mysql,supabase,firebase,php" />
 
-**QA & Testing:**  
-<img src="https://skillicons.dev/icons?i=postman,selenium,cypress" />
-
 **DevOps & Cloud:**  
 <img src="https://skillicons.dev/icons?i=docker,azure,git,github,gcp" />
 
