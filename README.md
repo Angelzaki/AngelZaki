@@ -1,111 +1,155 @@
 <div align="center">
-  <h1 style="color: #00FFFF; text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF;">🚀 Hola, soy Angel Salazar (Zaki) 🤖</h1>
-  <p style="color: #FF00FF; font-size: 18px; text-shadow: 0 0 10px #FF00FF, 0 0 20px #FF00FF;">
-    <strong>Full Stack Developer | Ingeniero de Sistemas | Maestría en Inteligencia Artificial</strong>
-  </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+FastAPI+%7C+.NET;Clean+Architecture+%7C+SOLID+%7C+Microservicios;Explorando+la+Inteligencia+Artificial+Generativa" alt="Typing SVG" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=190&section=header&text=Angel%20Salazar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60" alt="Angel Salazar" width="100%"/>
 
-
-## 🎓 Sobre Mí
-
-- 👨‍🎓 **Ingeniero de Sistemas titulado y colegiado** (CIP N.° 404730) — Universidad Tecnológica del Perú (UTP).
-- 📚 Actualmente cursando la **Maestría en Inteligencia Artificial** en la Universidad Nacional de Ingeniería (UNI).
-- 💻 **Full Stack Developer** con experiencia en JavaScript, TypeScript, React.js, Angular, Node.js, FastAPI y .NET.
-- ☁️ Experiencia en **arquitecturas Cloud, Docker, microservicios, WebSockets** y automatización de procesos con n8n.
-- 🧠 Integrando soluciones de **Inteligencia Artificial y Generative AI** en proyectos reales (Salud y Educación).
-- 🏗️ Aplico **Clean Architecture**, principios **SOLID** y metodologías ágiles (**Scrum/Agile**) en cada proyecto.
-
-📧 **Email**: [angel.salazarmaylle@gmail.com](mailto:angel.salazarmaylle@gmail.com)
-📱 **Teléfono**: +51 925 518 365
-🌐 **Portafolio**: [portafolioangel-mu.vercel.app](https://portafolioangel-mu.vercel.app/)
-
-
-## 🛠️ Tecnologías y Herramientas
-
-<div align="center">
-
-**Lenguajes:**
-<img src="https://skillicons.dev/icons?i=js,ts,py,cs,php,html,css" />
-
-**Frontend:**
-<img src="https://skillicons.dev/icons?i=react,angular,tailwind,redux" />
-
-**Backend:**
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet" />
-
-**Bases de Datos:**
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" />
-
-**DevOps / Cloud:**
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,gitlab,bitbucket" />
-
-**IA / Automatización:**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> &nbsp;
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white" />
-
-</div>
-
-
-## 🚀 Proyectos Destacados
-
-- 🏥 **DermaBot** — Chatbot de IA y Deep Learning para identificación de dermatitis.
-  ![Tech](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-  ![Tech](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-
-- 🏫 **InnovaEdu** — Chatbot de IA y Deep Learning para educación vial.
-  ![Tech](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-  ![Tech](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-- 🔥 **MASGAS** — Aplicación de venta de gas envasado con arquitectura SOA.
-  ![Tech](https://img.shields.io/badge/Express.js-404D59?style=flat)
-  ![Tech](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-
-
-
-## 📊 GitHub Insights
-
-<div align="center">
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Angelzaki&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF5E79&icon_color=FF5E79&rank_icon=github" alt="Stats"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelzaki&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5E79&langs_count=8" alt="Top Langs"/></td>
-  </tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Angelzaki&theme=radical&hide_border=true&background=0D1117&ring=FF5E79&fire=FF5E79&currStreakLabel=FF5E79" alt="Streak" width="48%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=A371F7&background=00000000&center=true&vCenter=true&width=780&height=50&lines=De+la+idea+al+despliegue%2C+con+IA+en+el+centro;Analisis+%E2%86%92+Modelos+%E2%86%92+APIs+%E2%86%92+Producci%C3%B3n;Deep+Learning+%7C+Generative+AI+%7C+Agentes" alt="Typing" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angelzaki&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF5E79&line=FF5E79&point=FFFFFF&area=true" alt="Activity Graph" width="97%"/>
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-1F6FEB?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-A371F7?style=for-the-badge)
+![LLM Apps](https://img.shields.io/badge/LLM_Apps-238636?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-F78166?style=for-the-badge)
 
 </div>
 
+---
 
+### `$ whoami`
 
-## 🌐 Conecta Conmigo
+```python
+from dataclasses import dataclass, field
+
+@dataclass
+class AngelSalazar:
+    role: str = "AI Engineer & Full Stack Developer"
+    location: str = "Lima, Perú"
+    education: list = field(default_factory=lambda: [
+        "Maestría en Inteligencia Artificial — UNI",
+        "Ingeniería de Sistemas — UTP (CIP 404730)",
+    ])
+    passion: str = "La Inteligencia Artificial"
+    focus: list = field(default_factory=lambda: [
+        "Deep Learning",
+        "Generative AI & LLM-powered apps",
+        "AI agents & workflow automation",
+    ])
+    principles: list = field(default_factory=lambda: [
+        "Clean Architecture", "SOLID", "Scrum / Agile",
+    ])
+
+    def current_mission(self) -> str:
+        return "Llevar la IA del notebook a producción."
+```
+
+---
+
+### `$ ./pipeline.sh --end-to-end`
+
+Me encargo del ciclo completo de un producto con IA, no solo de una parte.
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#161B22','primaryTextColor':'#E6EDF3','primaryBorderColor':'#1F6FEB','lineColor':'#A371F7','fontFamily':'monospace'}}}%%
+flowchart LR
+    A[Análisis y<br/>levantamiento] --> B[Extracción<br/>de ideas]
+    B --> C[Diseño de<br/>arquitectura]
+    C --> D[Datos y<br/>modelos de IA]
+    D --> E[API y<br/>backend]
+    E --> F[Frontend e<br/>integración]
+    F --> G[Deploy<br/>CI/CD]
+    G --> H[Monitoreo y<br/>mejora continua]
+    H -. feedback .-> A
+
+    style D fill:#1F6FEB,stroke:#A371F7,color:#fff
+    style E fill:#161B22,stroke:#238636,color:#fff
+    style G fill:#161B22,stroke:#F78166,color:#fff
+```
+
+| Etapa | Qué hago |
+|---|---|
+| **Análisis** | Entender el problema, los usuarios y los datos disponibles |
+| **Ideas** | Convertir necesidades en requerimientos y casos de uso con IA |
+| **Diseño** | Definir arquitectura (Clean Architecture, microservicios, SOA) |
+| **Modelos** | Diseñar, entrenar y evaluar modelos de Deep Learning y GenAI |
+| **API** | Exponer los modelos como servicios (FastAPI, Node.js, .NET) |
+| **Integración** | Conectar frontend, bases de datos, colas, WebSockets y automatizaciones |
+| **Deploy** | Contenedores con Docker, cloud y pipelines de entrega |
+| **Operación** | Monitorear, medir y mejorar el sistema en producción |
+
+---
+
+### `$ pip list --stack`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/angel-salazar-maylle-36236b198/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/Angelzaki" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:angel.salazarmaylle@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://portafolioangel-mu.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
 </div>
 
+---
+
+### `$ cat model_card.md`
+
+| | |
+|---|---|
+| **Model** | Angel Salazar v2026 |
+| **Type** | Ingeniero de IA, arquitectura Full Stack |
+| **Trained on** | Salud, educación, comercio y mucho código |
+| **Strengths** | De prototipo de IA a producto desplegado |
+| **Inference** | Español nativo, inglés técnico |
+| **Limitations** | Depende de café; se distrae con una buena arquitectura |
+| **License** | Open to collaboration |
+
+---
+
+### `$ git log --stats`
 
 <div align="center">
-✨ ¡Gracias por visitar mi perfil! ✨
+
+<img src="https://github-readme-stats.vercel.app/api?username=Angelzaki&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelzaki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top languages" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angelzaki&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Activity graph" width="97%"/>
+
+</div>
+
+---
+
+### `$ ping angel`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-salazar-maylle-36236b198/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolioangel-mu.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-A371F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel.salazarmaylle@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A371F7,50:1F6FEB,100:0D1117&height=100&section=footer" alt="footer" width="100%"/>
+
 </div>
