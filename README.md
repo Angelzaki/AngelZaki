@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=190&section=header&text=Angel%20Salazar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60" alt="Angel Salazar" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:238636&height=190&section=header&text=Angel%20Salazar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20Systems%20%7C%20LLMOps%20%7C%20AI%20Agents&descSize=18&descAlignY=60" alt="Angel Salazar" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=A371F7&background=00000000&center=true&vCenter=true&width=780&height=50&lines=De+la+idea+al+despliegue%2C+con+IA+en+el+centro;Analisis+%E2%86%92+Modelos+%E2%86%92+APIs+%E2%86%92+Producci%C3%B3n;Deep+Learning+%7C+Generative+AI+%7C+Agentes" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&width=820&height=50&lines=No+solo+uso+modelos%3A+dise%C3%B1o%2C+eval%C3%BAo+y+protejo+sistemas;RAG+%E2%86%92+Eval+%E2%86%92+Gates+%E2%86%92+Agentes+%E2%86%92+Seguridad;Python+%7C+FastAPI+%7C+Docker+%7C+AWS+(arquitectura)" alt="Typing" />
 
 <br/>
 
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-1F6FEB?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-A371F7?style=for-the-badge)
-![LLM Apps](https://img.shields.io/badge/LLM_Apps-238636?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-F78166?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Systems-1F6FEB?style=for-the-badge)
+![LLMOps](https://img.shields.io/badge/LLMOps-238636?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-F78166?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
 
 </div>
 
@@ -22,24 +22,46 @@ from dataclasses import dataclass, field
 
 @dataclass
 class AngelSalazar:
-    role: str = "AI Engineer & Full Stack Developer"
+    role: str = "AI Engineer | RAG Systems | LLMOps | AI Agents"
     location: str = "Lima, Perú"
     education: list = field(default_factory=lambda: [
         "Maestría en Inteligencia Artificial — UNI",
         "Ingeniería de Sistemas — UTP (CIP 404730)",
     ])
-    passion: str = "La Inteligencia Artificial"
     focus: list = field(default_factory=lambda: [
-        "Deep Learning",
-        "Generative AI & LLM-powered apps",
-        "AI agents & workflow automation",
+        "Evaluación y calidad de sistemas RAG",
+        "LLMOps: gates, costos, observabilidad",
+        "Agentes con abstención y escalamiento",
+        "Seguridad de prompts (injection / jailbreak)",
     ])
     principles: list = field(default_factory=lambda: [
-        "Clean Architecture", "SOLID", "Scrum / Agile",
+        "Medir antes de cambiar el modelo",
+        "Citar o abstenerse — no inventar",
+        "Datos sintéticos en público; cero secretos",
     ])
 
     def current_mission(self) -> str:
-        return "Llevar la IA del notebook a producción."
+        return "Investigar, diseñar, evaluar y optimizar sistemas inteligentes."
+```
+
+---
+
+### `$ ls flagships/`
+
+Seis proyectos Nivel 3 (evaluación, ops, agentes, seguridad, compliance). El resto son labs satélite.
+
+| Repo | Problema que ataca |
+|---|---|
+| [rag-eval-platform](https://github.com/Angelzaki/rag-eval-platform) | ¿En qué etapa se rompe el RAG cuando crece el corpus? |
+| [llm-ci-gates](https://github.com/Angelzaki/llm-ci-gates) | ¿Cómo bloquear regresiones de IA en el merge? |
+| [knowledge-ops-console](https://github.com/Angelzaki/knowledge-ops-console) | Ingesta → ask con citas → gold eval en una consola |
+| [support-copilot-lab](https://github.com/Angelzaki/support-copilot-lab) | Responder con evidencia o escalar a humano |
+| [prompt-firewall](https://github.com/Angelzaki/prompt-firewall) | Injection / jailbreak antes del LLM |
+| [doc-compliance-local](https://github.com/Angelzaki/doc-compliance-local) | Checklist vs docs: evidencia, score y brechas |
+
+```text
+rag-eval ──metrics JSON──▶ llm-ci-gates (PASS/FAIL)
+prompt-firewall ──valida input──▶ knowledge-ops / support-copilot
 ```
 
 ---
